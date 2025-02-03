@@ -98,7 +98,7 @@ No **CSS**, apesar de ter esquecido alguns conceitos no início, sempre utilizo 
 
 ## 📌 Próximos Passos
 
-Pretendo continuar desenvolvendo projetos para documentar e firmar os conceitos básicos e, em seguida, realizar projetos mais complexos para auemntar meu conhecimento e consequentemente tentar ingressar na area de desenvolvimento web
+Pretendo continuar desenvolvendo projetos para documentar e firmar os conceitos básicos e, em seguida, realizar projetos mais complexos para aumentar meu conhecimento e consequentemente tentar ingressar na area de desenvolvimento web
 
 ---
 
@@ -111,5 +111,3 @@ Pretendo continuar desenvolvendo projetos para documentar e firmar os conceitos 
 ## 🎯 Considerações Finais
 
 Estou muito feliz em voltar a fazer projetos e dessa vez focar de fato. Um dos passos iniciais será documentar e organizar tudo aqui no GitHub para ver minha evolução e sempre que voltar aqui ver que me empenhei nisso, podendo continuar e sempre melhorar.
-
->>>>>>> eaa06da38a15064982b20cdf3e8690d337786716
