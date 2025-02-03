@@ -1,87 +1,92 @@
-# Frontend Mentor - QR code component
+## Indice
 
-![Design preview for the QR code component coding challenge](./preview.jpg)
+- [Overview](#overview)
+  - [Screenshots](#screenshot)
+- [Meu Processo](#Meu-processo)
+  - [Built with](#Feito-com)
+  - [O que aprendi](#O-que-aprendi)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Considerações Finais](#acknowledgments)
 
-## Welcome! 👋
+## Overview
+  Nesse projeto pude relembrar alguns conceitos basicos de como utilizar o GIT, HTML e CSS. Assim partindo para projetos mais complexos, aprimorando os conceitos e praticas adiquiridos. Esperando também compartilhar projetos maiores aqui no GITHUB
+  Pretendo realizar mais desses projetos basicos aqui para deixar documentado e firmar os conceitos básicos
 
-Thanks for checking out this front-end coding challenge.
+RESULTADO:
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+  MOBILE:
+  
+  ![image](https://github.com/user-attachments/assets/554993d4-d746-40e1-8ba0-4da20b4c7dbc)
 
-**To do this challenge, you need a basic understanding of HTML and CSS.**
+  DESKTOP:
+  
+  ![image](https://github.com/user-attachments/assets/715f104e-69b6-428a-87fb-9507227cfa21)
+  
+### Screenshot
 
-## The challenge
+Soluções HTML e CSS
 
-Your challenge is to build out this QR code component and get it looking as close to the design as possible.
+HTML:
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+![image](https://github.com/user-attachments/assets/33419107-2245-4ee4-b24c-6b82632b85a0)
 
-Want some support on the challenge? [Join our community](https://www.frontendmentor.io/community) and ask questions in the **#help** channel.
 
-## Where to find everything
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+CSS:
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
+![image](https://github.com/user-attachments/assets/88b370b0-d151-4b76-9b34-aa50037135f8)
 
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
 
-You will find all the required assets in the `/images` folder. The assets are already optimized.
+### Links
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+Desafio do projeto: https://www.frontendmentor.io/
 
-## Building your project
+## Meu processo
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+Primeiramente realizo todas as marcações necessárias no HTML, colocando textos, imagens, listas etc
+Após isso começo a visualizar mentalmente como irá ficar o css, assim, colocando as DIVs que penso que são necessárias no momento para continuação do projeto em CSS
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
 
-## Deploying your project
+### Feito com:
 
-As mentioned above, there are many ways to host your project for free. Our recommended hosts are:
+- Marcação HTML5 semântica
+- CSS e suas propriedades
+- Flexbox
+- Respopnsividade para Mobile
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
 
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
+### O que aprendi
 
-## Create a custom `README.md`
+HMTL: No HTML apenas relembrei o basico das marcações como os parágrafos, Títulos, inserção de imagem, linkar o CSS no projeto etc
+Uma coisa importante que sempre me atento são as DIVs que vou criar, muita das vezes acabo colocando demais e ao longo do projeto vou limpando para o código final sair limpo e só com o necessário
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
+```html
+<div class="card">
+    <img class="card_img" src="./images/image-qr-code.png">
+</div>
+```
+CSS: No CSS já não me lembrava de muita coisa, porém com o basico consegui realizar o projeto. Um site que ajuda bastante é o https://css-tricks.com/snippets/css/a-guide-to-flexbox/. Nele me baseio bastante nas coisas que vou realizar, tanto em layout quanto na manipulação dos objetos
 
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
+```css
+.card{
+    display: flex;
+    flex-direction: column;
+    padding: 50px;
+    width: 400px;
+    background-color:hsl(0, 0%, 100%) ;
+    border-radius: 12px;
+}
 
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
+### Continued development
 
-## Submitting your solution
+Como comentei na parte acima, pretendo realizar mais desses projetos basicos aqui para deixar documentado e firmar os conceitos básicos. Após isso realizar projetos maiores para auemntar meu conhecimento e consequentemente tentar ingressar na area
 
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
+## Author
 
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
+- Instagram: @nicodemoos
 
-## Sharing your solution
+## Considerações Finais
 
-There are multiple places you can share your solution:
-
-1. Share your solution page in the **#finished-projects** channel of the [community](https://www.frontendmentor.io/community). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
-
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
-
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
-
-## Got feedback for us?
-
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
+Estou muito feliz em voltar a fazer projetos e dessa vez focar de fato, um dos passos iniciais será documentar e organizar tudo aqui no GitHub para ver minha evolução e sempre que voltar aqui ver que me empenhei em algo, assim podendo sempre continuar para ficar cada vez melhor
