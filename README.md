@@ -98,7 +98,7 @@ No **CSS**, apesar de ter esquecido alguns conceitos no início, sempre utilizo 
 
 ## 📌 Próximos Passos
 
-Pretendo continuar desenvolvendo projetos para documentar e firmar os conceitos básicos e, em seguida, realizar projetos mais complexos para auemntar meu conhecimento e consequentemente tentar ingressar na area de desenvolvimento web
+Pretendo continuar desenvolvendo projetos para documentar e firmar os conceitos básicos e, em seguida, realizar projetos mais complexos para aumentar meu conhecimento e consequentemente tentar ingressar na area de desenvolvimento web
 
 ---
 
